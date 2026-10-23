@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1014 640">
+  <defs>
+    <linearGradient id="kc" gradientUnits="userSpaceOnUse" x1="5" y1="8" x2="95" y2="92">
+      <stop offset="0" stop-color="#f46b10"/>
+      <stop offset=".3" stop-color="#f46b10"/>
+      <stop offset=".58" stop-color="#1a3f91"/>
+      <stop offset="1" stop-color="#1a3f91"/>
+    </linearGradient>
+  </defs>
+  <svg x="257" y="0" width="500" height="500" viewBox="0 0 100 100">
+    <g fill="none" stroke="url(#kc)" stroke-width="6" stroke-linejoin="miter">
+      <polygon points="50,8 86.4,29 86.4,71 50,92 13.6,71 13.6,29"/>
+      <polygon points="50,32 65.6,41 65.6,59 50,68 34.4,59 34.4,41"/>
+      <polygon fill="#fff" points="13.6,19 22.3,24 22.3,34 13.6,39 4.9,34 4.9,24"/>
+      <polygon fill="#fff" points="86.4,61 95.1,66 95.1,76 86.4,81 77.7,76 77.7,66"/>
+    </g>
+  </svg>
+  <text x="507" y="590" text-anchor="middle" font-family="'Avenir Next','Montserrat','Helvetica Neue',Arial,sans-serif" font-size="128" font-weight="500" letter-spacing="-2" fill="#424143">kwontum<tspan fill="#1f4fa8" dx="18">capital</tspan></text>
+</svg>
